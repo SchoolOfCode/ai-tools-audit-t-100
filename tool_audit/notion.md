@@ -1,15 +1,17 @@
+[Back to the report](../report.md)
+
 # tool name
 
 ## Description
 
-## Opportunity for TechForge
+## Personal Experience/Testing
 
-## Potential Risks
+## Opportunity for TechForge
 
 ## Benefits for TechForge
 
+## Potential Risks
+
 ## Recommendation
 
-## Supporting links
-
-[Report](../report.md)
+## Supporting resources
